@@ -5,3 +5,6 @@
 • This streamlined solution covers data ingestion, processing, validation, and visualization, providing a
  user-friendly interface for exploring Boston housing data and serving as a valuable asset for real
  estate analysis
+
+
+Drive link for airflow and terraform folder - https://drive.google.com/drive/folders/1hh386ZfRX6DH05hrmgPU2y3-a_bWHvqJ?usp=sharing
